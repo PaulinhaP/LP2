@@ -1,0 +1,9 @@
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\Atividade 4\Salario\Salario\bin\Debug\Salario.exe.config
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\Atividade 4\Salario\Salario\bin\Debug\Salario.exe
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\Atividade 4\Salario\Salario\bin\Debug\Salario.pdb
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\Atividade 4\Salario\Salario\obj\Debug\Salario.csprojResolveAssemblyReference.cache
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\Atividade 4\Salario\Salario\obj\Debug\Salario.Form1.resources
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\Atividade 4\Salario\Salario\obj\Debug\Salario.Properties.Resources.resources
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\Atividade 4\Salario\Salario\obj\Debug\Salario.csproj.GenerateResource.Cache
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\Atividade 4\Salario\Salario\obj\Debug\Salario.exe
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\Atividade 4\Salario\Salario\obj\Debug\Salario.pdb

@@ -1,0 +1,9 @@
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\Atividade 2\PesoIdeal\PesoIdeal\bin\Debug\PesoIdeal.exe.config
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\Atividade 2\PesoIdeal\PesoIdeal\bin\Debug\PesoIdeal.exe
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\Atividade 2\PesoIdeal\PesoIdeal\bin\Debug\PesoIdeal.pdb
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\Atividade 2\PesoIdeal\PesoIdeal\obj\Debug\PesoIdeal.csprojResolveAssemblyReference.cache
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\Atividade 2\PesoIdeal\PesoIdeal\obj\Debug\PesoIdeal.Form1.resources
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\Atividade 2\PesoIdeal\PesoIdeal\obj\Debug\PesoIdeal.Properties.Resources.resources
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\Atividade 2\PesoIdeal\PesoIdeal\obj\Debug\PesoIdeal.csproj.GenerateResource.Cache
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\Atividade 2\PesoIdeal\PesoIdeal\obj\Debug\PesoIdeal.exe
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\Atividade 2\PesoIdeal\PesoIdeal\obj\Debug\PesoIdeal.pdb

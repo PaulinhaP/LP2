@@ -1,0 +1,15 @@
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\MenuStrip2\MenuStrip2\MenuStrip2\bin\Debug\MenuStrip2.exe.config
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\Atividade 6\MenuStrip2\MenuStrip2\MenuStrip2\bin\Debug\MenuStrip2.exe.config
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\Atividade 6\MenuStrip2\MenuStrip2\bin\Debug\MenuStrip2.exe.config
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\Atividade 6\MenuStrip2\MenuStrip2\bin\Debug\MenuStrip2.exe
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\Atividade 6\MenuStrip2\MenuStrip2\bin\Debug\MenuStrip2.pdb
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\Atividade 6\MenuStrip2\MenuStrip2\obj\Debug\MenuStrip2.csprojResolveAssemblyReference.cache
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\Atividade 6\MenuStrip2\MenuStrip2\obj\Debug\MenuStrip2.frm2.resources
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\Atividade 6\MenuStrip2\MenuStrip2\obj\Debug\MenuStrip2.Properties.Resources.resources
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\Atividade 6\MenuStrip2\MenuStrip2\obj\Debug\MenuStrip2.csproj.GenerateResource.Cache
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\Atividade 6\MenuStrip2\MenuStrip2\obj\Debug\MenuStrip2.exe
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\Atividade 6\MenuStrip2\MenuStrip2\obj\Debug\MenuStrip2.pdb
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\Atividade 6\MenuStrip2\MenuStrip2\obj\Debug\MenuStrip2.frm3.resources
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\Atividade 6\MenuStrip2\MenuStrip2\obj\Debug\MenuStrip2.frm4.resources
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\Atividade 6\MenuStrip2\MenuStrip2\obj\Debug\MenuStrip2.frm1.resources
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\Atividade 6\MenuStrip2\MenuStrip2\obj\Debug\MenuStrip2.frmPrincipal.resources

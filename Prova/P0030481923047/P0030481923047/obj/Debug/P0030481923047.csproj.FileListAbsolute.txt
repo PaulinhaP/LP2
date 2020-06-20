@@ -1,0 +1,9 @@
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\ProvaP\P0030481923047\P0030481923047\bin\Debug\P0030481923047.exe.config
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\ProvaP\P0030481923047\P0030481923047\bin\Debug\P0030481923047.exe
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\ProvaP\P0030481923047\P0030481923047\bin\Debug\P0030481923047.pdb
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\ProvaP\P0030481923047\P0030481923047\obj\Debug\P0030481923047.csprojResolveAssemblyReference.cache
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\ProvaP\P0030481923047\P0030481923047\obj\Debug\P0030481923047.Form1.resources
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\ProvaP\P0030481923047\P0030481923047\obj\Debug\P0030481923047.Properties.Resources.resources
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\ProvaP\P0030481923047\P0030481923047\obj\Debug\P0030481923047.csproj.GenerateResource.Cache
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\ProvaP\P0030481923047\P0030481923047\obj\Debug\P0030481923047.exe
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\ProvaP\P0030481923047\P0030481923047\obj\Debug\P0030481923047.pdb

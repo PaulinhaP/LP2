@@ -1,0 +1,12 @@
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\PAluno\PAluno\bin\Debug\PAluno.exe.config
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\PAluno\PAluno\bin\Debug\PAluno.exe
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\PAluno\PAluno\bin\Debug\PAluno.pdb
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\PAluno\PAluno\obj\Debug\PAluno.csprojResolveAssemblyReference.cache
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\PAluno\PAluno\obj\Debug\PAluno.Properties.Resources.resources
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\PAluno\PAluno\obj\Debug\PAluno.csproj.GenerateResource.Cache
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\PAluno\PAluno\obj\Debug\PAluno.exe
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\PAluno\PAluno\obj\Debug\PAluno.pdb
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\PAluno\PAluno\obj\Debug\PAluno.frmPrincipal.resources
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\PAluno\PAluno\obj\Debug\PAluno.frmAluno.resources
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\PAluno\PAluno\obj\Debug\PAluno.frmCidade.resources
+C:\Users\Fernanda\Documents\Fatec\Fatec Aulas\LP2\PAluno\PAluno\obj\Debug\PAluno.frmSobre.resources
